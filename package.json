@@ -1,6 +1,6 @@
 {
   "name": "@wjsx/aliyun-ddns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": "dist/bin/aliyun-ddns",
   "main": "dist/index.js",
@@ -41,5 +41,11 @@
   },
   "files": [
     "dist/**/*"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wujiesixing/aliyun-ddns.git"
+  },
+  "homepage": "https://github.com/wujiesixing/aliyun-ddns/blob/main/README.md",
+  "bugs": "https://github.com/wujiesixing/aliyun-ddns/issues"
 }
