@@ -1,6 +1,6 @@
 {
   "name": "@wjsx/aliyun-ddns",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "bin": "dist/bin/aliyun-ddns",
   "main": "dist/index.js",
